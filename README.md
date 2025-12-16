@@ -35,4 +35,4 @@ Pour exécuter le laboratoire et voir les résultats dans la console :
 node index.js
 
 # 📊 Résultats 
-![alt text](image.png)
+![alt text](https://github.com/AsmaElmourabite/TP17/blob/d81f9f2d91ab606316f24bc904a7944b3d002782/tp_17.jpg)
